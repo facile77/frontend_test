@@ -1,0 +1,78 @@
+body{
+    margin-left: 154px;
+	margin-right: 154px;
+	background-color: #f9f9f9;
+}
+td{
+	color: white
+}
+td:active{
+	color: black;
+}
+tbody tr td span{
+	color: grey;
+	padding-left: 40px;
+    }
+tbody tr td span:hover{
+	color: black;
+	background-color: #f9f9f9; 
+}
+
+
+.box1 {
+	background-color: white;
+	height: 950px;
+	width:1062px;
+	margin:0px 100px;
+	box-shadow: 0 0 5px;
+    padding: 10px 30px;
+   font:20px Tahoma;
+
+}
+.box2 {
+	background-color: white;
+	width: 1020px;
+}
+.top_menu {
+    background-color:#545454;
+	height:37px;
+	width: 100%x;
+	font-size: 14px;
+	padding:11px 0px 0px 22px;
+	margin-bottom:60px;
+	font:Tahoma;
+}
+
+.table{
+	background-color:#ffffff;
+	font-size:14px;
+	width:200px;
+	height:200px;
+}
+.rightpic{
+	border:1px solid black;
+	float: right;
+	margin:0 0 5px 5px;
+}
+
+#content {
+	margin-left: 400px;
+    width: 650px;
+	height: 400px;
+	font-size: 16px;
+	margin-bottom: 65px;
+}
+.box3{
+	height: 260px;
+	width: 1060px
+}
+.foot_menu{
+	background-color: grey;
+	height:37px;
+	width: 100%x;
+	font-size: 14px;
+	padding: 11px 0px 0px 22px;
+	margin-bottom:60px;
+	font:Tahoma;
+}
+
